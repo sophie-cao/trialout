@@ -33,3 +33,6 @@ python p3.py
 
 ## Contact
 Feel free to contact me at 13herger@gmail.com
+
+## Result display
+![alt text]drop off.png
