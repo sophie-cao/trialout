@@ -35,4 +35,4 @@ python p3.py
 Feel free to contact me at 13herger@gmail.com
 
 ## Result display
-![alt text]drop off.png
+![alt text](dropoffs.png "Description goes here")
